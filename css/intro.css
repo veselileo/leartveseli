@@ -1,0 +1,9 @@
+h1{background-color: aqua;}
+*{background-color: brown;}
+h1{background-color: black;}
+p1{background-color: beige;}
+#p1{background-color: blueviolet;font-size: 32px;}
+.para{background-color: black;font-size: 25px;}
+div p{background-color: blueviolet;color: azure;font-size: 22px;}
+div>h1{background-color: bisque;color: brown;font-size: 22px;}
+h1,h2,button{background-color: aqua;color: aqua;}
