@@ -1,0 +1,76 @@
+#table1,.table1{
+    border: 1px solid black;
+    border-collapse: separate;
+    border-spacing: 10 px 10px;
+    
+}
+
+.table1{
+    padding: 20px;
+    margin: 10px;
+}
+
+#table1{
+    background-color: red;
+    width: 400px;
+    height: 40px;
+}
+
+#table2,.table2{
+    margin-top: 50px;
+    border: 1px solid black;
+    width: 400px;
+    height: 40px;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#table3,.table3{
+    margin-top: 50px;
+    border-bottom: 1 px solid black;
+    width: 40px;
+    border-collapse: collapse;
+}
+
+#table2 tr:nth-child(odd) {
+    background-color:white
+    color(blue)
+}
+
+#table3,.table3{
+    margin-top: 50px;
+    border-bottom: 1px solid black;
+    width: 400px;
+    height: 40px;
+    border-collapse: collapse;
+}
+
+.table2:hover{
+    background-color: red;
+}
+
+#table3:hover{
+    background-color: red;
+}
+
+div{
+    width: 500px;
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+#table1{
+    caption-side: top;
+    empty-cells: hide;
+}
+
+#table2{
+    caption-side: bottom;
+    empty-cells: show;
+}
+
+
+
+
