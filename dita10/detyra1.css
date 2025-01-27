@@ -1,0 +1,16 @@
+#divk{
+    border: solid rgba(128, 128, 128, 0.641)20px;
+    margin: auto;
+    width: 700px;
+    padding: 20px;
+}
+h1{
+    text-transform: capitalize;
+}
+h5{
+    color: aqua;
+    text-transform: uppercase;
+}
+.p3{
+    border-left: 6px solid gray
+}

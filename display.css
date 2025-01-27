@@ -1,0 +1,12 @@
+h1{
+    display: inline;
+    visibility: hidden;
+}
+
+p{
+    display: inline;
+}
+
+a{
+    display: block;
+}

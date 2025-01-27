@@ -1,0 +1,11 @@
+.div1{
+    padding: 20px;
+    width: 700px;
+    margin: auto;
+    height: 2000px;
+    border-color: blue;
+}
+
+.div1{
+    text-transform: capitalize;
+}
