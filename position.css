@@ -31,7 +31,8 @@
     width: 200px;
     height: 100px;
     position: sticky;
-    top: 93px;
+    top: 33px;
+    background-color: brown;
 }
 
 #p5{
@@ -85,7 +86,9 @@
     border: 1px solid black;
     width: 200px;
     height: 100px;
-    position: static;
+    position: sticky;
+    top: 40px;
+    background-color: brown;
 }
 
 #p11{

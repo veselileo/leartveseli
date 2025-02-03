@@ -1,0 +1,38 @@
+body{
+    font-family: 'Times New Roman', Times, serifs
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+nav ul{
+    list-style: none;
+    background-color: rgb(14, 14, 107);
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+li al{
+    color: rgb(132, 39, 39);
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a:hover{
+    background-color: white;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
