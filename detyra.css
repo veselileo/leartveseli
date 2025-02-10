@@ -1,0 +1,32 @@
+#spp{
+    color: green;
+}
+
+
+#div1{
+    border: 5px dotted aqua;
+    width: 1450px;
+    height: 700px;
+    padding: 20px;
+}
+
+#input4{
+    display: inline-block;
+
+}
+
+#input1{
+    width: 1400px;
+}
+
+#input2{
+    width: 1400px;
+}
+
+#div12{
+    border-top: 5px dotted aqua
+}
+
+#input4{
+    display: inline;
+}
