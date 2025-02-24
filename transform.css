@@ -1,0 +1,94 @@
+#div1{
+width: 100px;
+height: 100px;
+background: brown;
+color: white;
+transition: transform 2s;
+}
+
+#div1:hover{
+    width: 100px;
+    height: 100px;
+    background: purple;
+    transform: translate(100px, 200px);
+}
+
+#div2{
+width: 100px;
+height: 100px;
+background: green;
+transition: width 2s, height 2s, transform 2s;
+color: white;
+position: absolute;
+top: 100px;
+left: 150px;
+}
+
+#div2:hover{
+    width: 300px;
+    height: 300px;
+    background: purple;
+    transform: rotate(360deg);
+}
+
+#div3{
+    height: 100px;
+    width: 100px;
+    background: brown;
+    color: white;
+    transition: widht 2s, height 2s, transform 2s;
+}
+
+#div3:hover{
+    width: 100px;
+    height: 100px;
+    background: purple;
+    margin-left: 50px;
+    transform: scale(2, 3);
+}
+
+#div4{
+    width: 100px;
+    height: 100px;
+    background: green;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+#div4:hover{
+    width: 300px;
+    height: 300px;
+    background: purple;
+    transform: skew(35deg, 35deg);
+}
+
+#div5{
+    width: 100px;
+    height: 100px;
+    background: green;
+    transition: width 2s, height 2s, transform 2s;
+    color: white;
+}
+
+#div5:hover{
+    width: 300px;
+    height: 300px;
+    background: purple;
+    transform: rotateX(360deg);
+}
+
+#div6{
+    width: 100px;
+    height: 100px;
+    background: brown;
+    transition: width 2s, height 2s, transform 2s;
+    color: white;
+    transition-delay: 1s;
+    transition-timing-function: ease;
+}
+
+#div6:hover{
+    width: 100px;
+    height: 100px;
+    background: purple;
+    transform: matrix(5, );
+}
