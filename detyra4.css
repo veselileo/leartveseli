@@ -1,0 +1,87 @@
+#divk{
+    border: 5px dotted lightblue;
+    height: 635px;
+    width: 500px;
+    padding: 5px;
+}
+
+#span1{
+    color: aqua;
+    font-size: 30px;
+}
+#input1{
+    width: 475px;
+}
+#input3{
+    width: 75px;
+
+}
+#lab3{
+    float: left;
+    margin-left: 10px;
+}
+#lab4{
+    float: left;
+    margin-left: 10px;
+}
+#lab5{
+    float: left;
+    margin-left: 10px;
+}
+#hr{
+    border-top: 4px dotted lightblue;
+}
+
+#lab6{
+    color: aqua;
+    font-size: 30px;
+}
+
+#lab7{
+    float: left;
+}
+
+#lab8{
+    float:right;
+}
+
+#lab9{
+    float: left;
+}
+
+
+#lab10{
+    float: right;
+}
+
+#lab11{
+    float: left;
+    margin-left: 20px;
+}
+#input9{
+    width: 95px;
+}
+
+#lab12{
+    float: left;
+    margin-left: 20px;
+}
+#input10{
+    width: 95px;
+}
+
+#lab13{
+    float: left;
+    margin-left: 20px;
+}
+#input11{
+    width: 95px;
+}
+
+#lab14{
+    float: left;
+    margin-left: 20px;
+}
+#input12{
+    width: 95px;
+}
